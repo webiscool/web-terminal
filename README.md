@@ -1,4 +1,4 @@
-#Web terminal
+#Web Terminal
 
 > Never thought about having unix (debian) live commands session shared thru a simple web page?
 
@@ -16,9 +16,9 @@ apt install web-terminal
 web-terminal help
 ```
 
-_Finally do not forget the corresponding http port for your web terminal (if other than 80)._
+_Finally do not forget to open the corresponding http port for your web terminal._
 
 [link to web terminal](https://www.terminal.com/webterminal)
 
-*AWS offers a one year free resource access
+*AWS offers a one year free single resource access
 
